@@ -1,0 +1,10 @@
+Welcome to GrassLaunch! I, Deb, present to you the latest feature!!!
+(drum rolls)
+The news tab!!!
+Wanna see what's going on with GrassLaunch?
+Well, now you can here!!! This tab was made specifically
+for users that want see the updates about development,
+new additions, etc.. (i don't have to add a "what's new"
+tab now!!!) I hope you enjoy this feature. Remember, any
+error can be reported in the "issues" tab of the GrassLaunch
+github repository. Have a nice gameplay! :D
