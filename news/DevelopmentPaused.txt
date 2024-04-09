@@ -1,15 +1,8 @@
 Hello.
-You may be wondering what
-this article is about, because
-the launcher doesn't display
-the file name. Well, due to
-some personal stuff, the
-development is gonna be paused for
-a while. Hopefully that isn't gonna
-be much time, i would hate that.
-In the meantime, remember that this
-launcher doesn't depends exclusively
-on me, as everyone can read and
-edit the code, so i hope that the
-almost unexistent community is
-capable of replacing me for a few weeks
+You may be wondering what this article is about, because
+the launcher doesn't display the file name. Well, due to
+some personal stuff, the development is gonna be paused for
+a while. Hopefully that isn't gonna be much time, i would hate that.
+In the meantime, remember that this launcher doesn't depends exclusively
+on me, as everyone can read and edit the code, so i hope that the
+almost unexistent community is capable of replacing me for a few weeks
