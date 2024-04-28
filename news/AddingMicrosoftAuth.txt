@@ -1,0 +1,5 @@
+I'm currently working in adding the Auth for a Mincraft account.
+Sadly, I'm having trouble with it, something about a
+"client secret"/"client asertion" or whatever. Once I solve
+that problem I will add support for bought Minecraft accounts.
+Thanks for using GrassLaunch!
